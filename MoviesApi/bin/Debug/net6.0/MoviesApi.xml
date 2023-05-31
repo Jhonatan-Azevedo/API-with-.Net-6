@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoviesApi</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:MoviesApi.Controllers.MovieController.AddMovie(MoviesApi.Data.Dtos.CreateMovieDto)" -->
+    </members>
+</doc>
